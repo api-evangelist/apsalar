@@ -1,0 +1,59 @@
+{
+    "name": "Apsalar",
+    "description": "Apsalar provides mobile app attribution and audience building services that optimize marketing effectiveness and drive maximum ROI.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/690-apsalar.jpg",
+    "tags": [
+        "api service provider",
+        "applications",
+        "have api",
+        "mobile analytics platform",
+        "tracking"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/apsalar\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Apsalar",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/690-apsalar.jpg",
+            "humanURL": "http:\/\/apsalar.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apsalar-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/apsalar.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/apsalar.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/apsalar"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/apsalar"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/apsalarinc"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/apsalar.com\/"
+        }
+    ]
+}
