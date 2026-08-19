@@ -36,7 +36,7 @@ x-successor-url: https://www.singular.net
 x-enrichment-note: 'Domain probed 2026-07-18: apsalar.com apex times out; www.apsalar.com
   CNAMEs to singular.net; PyPI 404; no first-party packages; brand retired. No live
   API surface to enrich; no fabricated artifacts produced.'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 tags:
