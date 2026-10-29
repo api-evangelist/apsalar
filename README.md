@@ -64,6 +64,34 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Apsalar is a company surfaced as a portfolio company of 500-global, battery-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: 500-global, battery-ventures — https://apsalar.com
+Apsalar was a mobile marketing analytics and attribution company (founded 2010, headquartered in San Francisco, backed by Battery Ventures and 500 Startups/500 Global) that provided a mobile measurement platform (MMP) for app install attribution, campaign analytics, and marketing data unification. In 2017 Apsalar merged into Singular (singular.net); the Apsalar brand and its developer/API surface were retired as part of that acquisition. The apsalar.com apex domain no longer resolves to a live site and www.apsalar.com now redirects to Singular, so there is no active first-party API, OpenAPI, or developer portal to enrich. This profile is retained as an acquired-company lead pointing to its successor, Singular.
+
+**Areas:** Company · Analytics · Mobile · Attribution · Marketing · Mobile Measurement · Acquired
+
+## Apsalar on APIs.io (historical record)
+
+Everything profiled for Apsalar is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/apsalar/](https://apis.io/providers/apsalar/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://apsalar.com)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Apsalar: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/apsalar/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
